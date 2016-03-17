@@ -33,8 +33,8 @@ function setup() {
   createCanvas(700,500);
   background(250);
   frameRate(40);
-  loadImage("assets/Living.jpg", function(img) {
-    image(img, 650, 120);
+  //loadImage("assets/Living.jpg", function(img) {
+  //  image(img, 650, 120);
   });
 }
 
